@@ -1,3 +1,3 @@
 # Python-Lists-Assignment-
 
-Containing all list related qquestions
+Containing all list related questions
